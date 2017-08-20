@@ -10,4 +10,9 @@ The easiest way to read through this code, try it out and play with it is to fol
 - go to browser and the application should be running under http://localhost:8080/developers
 
 
+![developers](https://user-images.githubusercontent.com/6674294/29499147-d3f5cf56-860a-11e7-90c0-8fd05b05b3fa.JPG)
+
+Add Developer first Name , Last Name and skills and submit. After you can added that developer. Then you can skills from drop down.
+
+![developer](https://user-images.githubusercontent.com/6674294/29499157-fc3329b4-860a-11e7-8009-ef00c6c1007b.JPG)
 
