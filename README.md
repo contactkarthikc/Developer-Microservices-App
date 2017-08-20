@@ -16,7 +16,7 @@ Add Developer first Name , Last Name and skills and submit. After you can added 
 
 ![developer](https://user-images.githubusercontent.com/6674294/29499157-fc3329b4-860a-11e7-8009-ef00c6c1007b.JPG)
 
--For deploying this code in Oracle Application Container cloud, 
+- For deploying this code in Oracle Application Container cloud, 
 --build this using maven.
 --Deploy zip archive to Oracle Application container cloud . and access Oracle ACCS cloud URL/developers.
 
